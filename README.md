@@ -1,7 +1,7 @@
-# README
+### I'm Dter
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dexterBo&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterBo&layout=compact&theme=vue-dark)
+- `前端开发` && `优雅` && `模块化` && `工程化` && `切图仔`
+- 💬 人的天赋就像是一颗深埋在地底的钻石没有刻苦的挖掘和精心得雕琢是焕发不出光彩的。
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -29,3 +29,6 @@
 
 ### 🎫 个人博客 | BLOG
 ![简书](https://img.shields.io/badge/-简书-333333?style=flat&logo=简书&logoColor=563D7C) https://www.jianshu.com/u/4dbf98fb2de1
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dexterBo&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexterBo&layout=compact&theme=vue-dark)
