@@ -25,7 +25,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### ⌨ 个人网站 | Personal Website
-![MOCK(在线mock平台)](https://img.shields.io/badge/-MOCK(在线mock平台)-333333?style=flat&logo=MOCK&logoColor=563D7C) https://fastmock.xienihong.space/
+![MOCK(在线mock平台)](https://img.shields.io/badge/-MOCK(在线mock平台)-333333?style=flat&logo=MOCK&logoColor=563D7C) https://mock.dexterdai.online/#/
 
 ### 🎫 个人博客 | BLOG
 ![简书](https://img.shields.io/badge/-简书-333333?style=flat&logo=简书&logoColor=563D7C) https://www.jianshu.com/u/4dbf98fb2de1
